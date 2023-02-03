@@ -1,0 +1,40 @@
+body{
+    background-color: rgb(0, 0, 0);
+    color: rgb(255, 255, 255);
+}
+
+.content {
+    background-color: #fd00fd26;
+    border-radius: 20px;
+    box-shadow: 0 10px 20px 0 rgba(255, 0, 153, 0.458);
+    padding: 20px;
+    box-sizing: border-box;
+    margin-left: auto;
+    margin-right: auto;
+    width: 60em;
+    margin-bottom: 35px;
+    
+}
+.name-phones{
+    font-size: 1.1rem;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+img{
+    border-radius: 10px;
+    width: 280px;
+	height: 180px;   
+     
+}
+
+.smartphones{
+    font-size: 4rem;
+    text-transform: uppercase;
+    color: #fd00fd32;
+    text-align: center;
+    margin-bottom: 2rem;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+.discription{
+    margin: 1px auto 5px 317px;  
+}
