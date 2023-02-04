@@ -18,13 +18,15 @@ body{
 .name-phones{
     font-size: 1.1rem;
     font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    margin-left: 19px;
+    color: aliceblue;
 }
 
-img{
+img {
     border-radius: 10px;
     width: 280px;
-	height: 180px;   
-     
+	height: 180px;  
+    margin: -140px -30px 0px;
 }
 
 .smartphones{
@@ -35,6 +37,19 @@ img{
     margin-bottom: 2rem;
     font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
 }
-.discription{
-    margin: 1px auto 5px 317px;  
+
+.discription {
+    line-height: 1.5;
+    margin-left: 300px;
+}
+
+.nav-link {
+    background-color: rgb(255, 2, 192);
+    padding: 7px 40px;
+    border-radius: 10px;
+    text-align: center;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    text-decoration: none;
+    font-size: 15px;
+    margin: -150px 60px 0px;
 }
